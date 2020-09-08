@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-12:34:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2029%20Aug%202020%2019:34:40%20GMT	http://vintagepointsblog.com/robots.txt		(from )
-12:34:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2029%20Aug%202020%2019:34:41%20GMT	http://vintagepointsblog.com/	C:/GitHub/mffais.github.io/vintagepoints/vintagepoints/vintagepointsblog.com/index.html	(from )
